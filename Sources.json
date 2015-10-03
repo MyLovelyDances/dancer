@@ -1,6 +1,6 @@
 {
-    "news": ["https://raw.githubusercontent.com/MyLovelyDances/dancer/master/news/News1.json",
-             "https://raw.githubusercontent.com/MyLovelyDances/dancer/master/news/News2.json"]
-    "docs": ["https://raw.githubusercontent.com/MyLovelyDances/dancer/master/docs/Docs1.json",
+    "news”: ["https://raw.githubusercontent.com/MyLovelyDances/dancer/master/news/News1.json",
+             "https://raw.githubusercontent.com/MyLovelyDances/dancer/master/news/News2.json”],
+    "docs”: ["https://raw.githubusercontent.com/MyLovelyDances/dancer/master/docs/Docs1.json",
              "https://raw.githubusercontent.com/MyLovelyDances/dancer/master/docs/Docs2.json"]
 }
