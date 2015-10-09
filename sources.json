@@ -1,5 +1,5 @@
 {
-    [{"id": "1",
+    "sources": [{"id": "1",
      "direction": 1,
      "name": "БФТС",
      "site": "bdf.by",
